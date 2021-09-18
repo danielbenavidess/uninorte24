@@ -1,2 +1,4 @@
 Datos Personales
-Nombre: Daniel Benavides
+Nombre: Daniel
+Apellidos: Benavides
+e-mail: danielbenavides@uninorte.edu.co
